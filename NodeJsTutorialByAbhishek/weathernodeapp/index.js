@@ -1,0 +1,1 @@
+https: //api.openweathermap.org/data/2.5/weather?q={jaipur}&appid={51eeb53c50c53386606b2abadbacc40c}
